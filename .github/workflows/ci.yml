@@ -39,4 +39,5 @@ jobs:
 
       - name: Staticcheck linting
         uses: dominikh/staticcheck-action@v1
+
         
